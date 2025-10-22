@@ -1,0 +1,2 @@
+Bonjour ! Ceci est un test d'écriture dans un fichier.
+Bienvenue en Java !
